@@ -4,7 +4,7 @@
 	 *
 	 * @package eCooby
 	 */
-	$config = array('host' => 'localhost', 'user' => 'root', 'password' => '', 'database' => 'db_ecooby');
+	$config = array('host' => '', 'user' => '', 'password' => '', 'database' => ''); // Mysqli configuration
 
     $mysqli = @new mysqli($config['host'], $config['user'], $config['password'], $config['database']);
     if (mysqli_connect_errno()) {
