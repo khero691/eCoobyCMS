@@ -1,0 +1,18 @@
+AddDefaultCharset utf-8
+Options -Indexes
+ErrorDocument 404 /404
+RewriteEngine on
+#Options +FollowSymlinks
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php?ec_page=$1 [L,QSA]
+
+
+#<Files index.php>
+#Order Deny,Allow
+#Deny from all
+#Allow from 194.44.158.197
+#Allow from 109.238.233.222
+#Allow from 37.233.46.250
+#Allow from 46.211.*.*
+#</Files>
