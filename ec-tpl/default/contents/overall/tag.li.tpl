@@ -1,0 +1,1 @@
+<li><a href="/search?id=%{ec_tag link}%">%{ec_tag item}%</a></li>
