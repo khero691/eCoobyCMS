@@ -2,13 +2,16 @@
 ecooby, CMS, cooby, engineCooby, mazikov, khero691
 
 # Developers
-Vlad Mazikov (Backend), Kevin Wilson (Frontend)
+Vlad Mazikov (`Backend`)
+
+Kevin Wilson (`Frontend`)
 
 # Links
-https://vk.com/id255237807
-https://vk.com/id303015777
+`Vlad Mazikov` - https://vk.com/id255237807
 
-https://vk.com/ecooby
+`Kevin Wilson` - https://vk.com/id303015777
 
-http://ecooby.ru
+`Public Page` - https://vk.com/ecooby
+
+`Web Site` - http://ecooby.ru
 
