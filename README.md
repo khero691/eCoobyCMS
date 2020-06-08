@@ -2,7 +2,7 @@
 ecooby, CMS, cooby, engineCooby, mazikov, khero691
 
 # Developers
-Vlad Halimskyi (`Backend`)
+Vladyslav Halimskyi (`Backend`)
 
 Kevin Wilson (`Frontend`)
 
